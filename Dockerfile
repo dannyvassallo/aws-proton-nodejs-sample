@@ -1,4 +1,4 @@
-From node:erbium-alpine3.12
+FROM node:erbium-alpine3.12
 WORKDIR /app
 COPY package*.json ./
 COPY yarn.lock ./
