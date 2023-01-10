@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "d236238b-6c09-4382-891d-4fa76b0607d2",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:ap-southeast-1:828642620887:environment/terraform",
+    "templateArn" : "arn:aws:proton:ap-southeast-1:828642620887:environment-template/terraform",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0"
+  }
+}
